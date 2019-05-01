@@ -14,10 +14,10 @@ namespace MilosAPI
         /// <param name="_a">Source</param>
         /// <param name="_b">Destination</param>
         /// 
-        public static void Map(this object _dest, object _sour)
+        public static void Map(this object _b, object _a)
         {
 
-            new Mapper(_sour, _dest);
+            new Mapper(_a, _b);
 
         }
     }
