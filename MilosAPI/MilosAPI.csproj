@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Mapper.cs" />
+    <Compile Include="MapperExtensionMethod.cs" />
     <Compile Include="MapperStatic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
